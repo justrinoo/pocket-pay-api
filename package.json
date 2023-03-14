@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^4.8.1",
     "next": "latest",
     "react": "^18.2.0",
